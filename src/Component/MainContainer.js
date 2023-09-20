@@ -5,7 +5,7 @@ const MainContainer = [
     nationality: "Senegalais",
     jerseyNumber: "10",
     age: "31",
-    image: "image/mane.jpg",
+    image: "image/mane.jpg ",
   },
 
   {
